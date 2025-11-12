@@ -2,7 +2,7 @@
 Evaluates the data-based "best" neighborhood in Piitsburgh using trees per square mile, burglaries and robberies per capita, and 311 complaints per capita
 ## Team Friendship! (Canvas Group 27)
 |Name|Email|Dataset|
-|-|-|
+|-|-|-|
 |Tucker Busfield| tjb229@pitt.edu|Demographics (Crime)|
 |Victor Ezaru| vse7@pitt.edu |Trees|
 |Colin Keller| cmk257@pitt.edu |311 Complaints|
