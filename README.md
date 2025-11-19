@@ -4,7 +4,7 @@ Evaluates the data-based "best" neighborhood in Piitsburgh using trees per squar
 |Name|Email|Dataset|
 |-|-|-|
 |Tucker Busfield| tjb229@pitt.edu|Demographics (Crime)|
-|Victor Ezaru| vse7@pitt.edu |Trees|
+|Victor Ezaru| vse6@pitt.edu |Trees|
 |Colin Keller| cmk257@pitt.edu |311 Complaints|
 
 ## Datasets Used
